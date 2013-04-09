@@ -1,4 +1,4 @@
-mine-field
+Campo minado
 ==========
 
-Campo minado em html5
+Uma versão mais simples do jogo campo minado uma base para usar como ponto de partida, desenvolvido em html5. 

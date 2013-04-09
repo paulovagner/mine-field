@@ -1,0 +1,21 @@
+/*
+ style.css
+ Mine Field Game
+ Created by paulo on 2013-03-22.
+ */
+#game {
+	display:none;
+	float:right;
+	height:600px;
+	margin-right:250px;
+	margin-top:-71px;
+	width:600px;
+}
+#result {
+	float:left;
+	margin-top:35px;
+	width:200px;
+}
+#button {
+	float:left;
+}
